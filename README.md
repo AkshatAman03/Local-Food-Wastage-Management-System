@@ -34,12 +34,12 @@ Caching Mechanism:
 Tech Stack:
            Tool           |            Purpose                           
  ------------------------------------------------------------ 
- 🐍 Python               | Backend logic and data processing 
- 🧮 MySQL                | Relational database               
- 📊 Pandas               | Data manipulation                 
- 📈 Seaborn & Matplotlib | Data visualizations               
- 🌐 Streamlit            | Frontend web app                  
- 💾 MySQL Connector      | Database connection               
+ Python               | Backend logic and data processing 
+ MySQL                | Relational database               
+ Pandas               | Data manipulation                 
+ Seaborn & Matplotlib | Data visualizations               
+ Streamlit            | Frontend web app                  
+ MySQL Connector      | Database connection               
 
 Food wastage is a significant issue, with many households and restaurants discarding surplus food while numerous people struggle with food insecurity. This project aims to develop a Local Food Wastage Management System, where:
 - Restaurants and individuals can list surplus food.
